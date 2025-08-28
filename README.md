@@ -4,4 +4,4 @@ Do not expect by any means for it to get done any time soon.
 Have fun playing my ripoff!
 
 # DEPENDENCIES
-Make sure to install GLFW and Vulkan if you want my project to work properly.
+Make sure to install GLFW and OpenGL if you want my project to work properly.
